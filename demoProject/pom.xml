@@ -6,7 +6,7 @@
 	<groupId>ch.co.gts.nis</groupId>
 	<artifactId>demoProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>demoProject</name>
 	<description>New Invoice System</description>
